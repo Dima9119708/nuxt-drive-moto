@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+    --color-01: #2F3035;
+    --color-02: #1C62CD;
+    --color-03: #F0F0F4;
+    --color-04: #C4C4C4;
+    --color-05: #FFFFFF;
+}
+
+body {
+    font-family: 'SFProDisplay', sans-serif;
+    font-weight: 400;
+}
